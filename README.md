@@ -1,2 +1,2 @@
 # T73-Mini-Project
-Agentic AI Rea Time Cybersecurity Response System
+Agentic AI Real Time Cyber-Security Response System
