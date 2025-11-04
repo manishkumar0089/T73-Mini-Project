@@ -10,27 +10,48 @@ This system leverages *AI agents, **machine learning, and **automated response m
 
 ## 🏗 Project Structure
 Automated-Recovery/
+
 │
+
 ├── backend/
+
 │ ├── ai_engine/
+
 │ ├── api/
+
 │ └── database/
+
 │
+
 ├── frontend/
+
 │ ├── public/
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ ├── pages/
+
 │ │ └── styles/
+
 │ └── package.json
+
 │
 ├── docs/
+
 │ ├── report.pdf
+
 │ └── architecture.png
 
 Key Features->
+
 Real-time cyberattack detection and automated response
+
 AI-based anomaly and intrusion detection
+
 Live dashboard visualization
+
 Secure backend APIs
+
 Modular and scalable architecture
